@@ -1,0 +1,12 @@
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\bin\Release\net5.0\WebCrawler.DataLayer.deps.json
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\bin\Release\net5.0\WebCrawler.DataLayer.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\bin\Release\net5.0\ref\WebCrawler.DataLayer.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\bin\Release\net5.0\WebCrawler.DataLayer.pdb
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\WebCrawler.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\WebCrawler.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\WebCrawler.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\WebCrawler.DataLayer.AssemblyInfo.cs
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\WebCrawler.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\WebCrawler.DataLayer.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\ref\WebCrawler.DataLayer.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebCrawler.DataLayer\obj\Release\net5.0\WebCrawler.DataLayer.pdb

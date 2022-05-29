@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Divar W Crawler";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">نام</th>
+            <th scope="col">آدرس</th>
+            <th scope="col">قیمت</th>
+            <th scope="col">تصویر</th>
+            <th scope="col">تاریخ ثبت</th>
+            <th scope="col">امکانات</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Divar)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Address</td>
+                <td>@item.Price</td>
+                <td><img src="@item.ImageUrl" alt="Not Image" class="img-thumbnail" /></td>
+                <td>
+                    <a href="@item.Link" class="btn btn-warning">لینک</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

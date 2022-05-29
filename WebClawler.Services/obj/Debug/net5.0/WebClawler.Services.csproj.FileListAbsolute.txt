@@ -1,0 +1,15 @@
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.csproj.AssemblyReference.cache
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.AssemblyInfoInputs.cache
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.AssemblyInfo.cs
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.csproj.CoreCompileInputs.cache
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\bin\Debug\net5.0\WebClawler.Services.deps.json
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\bin\Debug\net5.0\WebClawler.Services.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\bin\Debug\net5.0\ref\WebClawler.Services.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\bin\Debug\net5.0\WebClawler.Services.pdb
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\bin\Debug\net5.0\WebCrawler.DataLayer.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\bin\Debug\net5.0\WebCrawler.DataLayer.pdb
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.csproj.CopyComplete
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\ref\WebClawler.Services.dll
+C:\Users\Omega\Desktop\Desktop\CrawlerWithC#\WebCrawler\WebClawler.Services\obj\Debug\net5.0\WebClawler.Services.pdb
