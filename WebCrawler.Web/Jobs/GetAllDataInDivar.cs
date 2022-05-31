@@ -1,4 +1,5 @@
 ﻿using HtmlAgilityPack;
+using Microsoft.Extensions.Options;
 using Quartz;
 using System;
 using System.Linq;
@@ -6,6 +7,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using WebClawler.Services.Services.Implementation;
 using WebCrawler.DataLayer.Model;
+using WebCrawler.Web.Utilities;
 
 namespace WebCrawler.Web.Jobs
 {
@@ -13,18 +15,19 @@ namespace WebCrawler.Web.Jobs
     public class GetAllDataInDivar : IJob
     {
         private readonly DivarServices _divarServices;
+        private readonly LinkCrawler _address;
 
-        public GetAllDataInDivar(DivarServices divarServices)
+        public GetAllDataInDivar(DivarServices divarServices, IOptions<LinkCrawler> address)
         {
             _divarServices = divarServices;
+            _address = address.Value;
         }
         public async Task Execute(IJobExecutionContext context)
         {
             #region Get All Data And Save To Database
 
-            var url = "https://divar.ir/s/tehran";
             var httpClient = new HttpClient();
-            var html = await httpClient.GetStringAsync(url);
+            var html = await httpClient.GetStringAsync(_address.LinkAddress);
             var htmlDocument = new HtmlDocument();
             htmlDocument.LoadHtml(html);
             var divs = htmlDocument.DocumentNode.Descendants("div").Where(c => c.GetAttributeValue("class", "").Equals("post-card-item kt-col-6 kt-col-xxl-4")).ToList();

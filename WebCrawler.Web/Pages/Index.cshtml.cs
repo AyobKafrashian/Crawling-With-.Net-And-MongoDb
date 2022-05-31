@@ -1,8 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using WebClawler.Services.Services.Implementation;
 using WebCrawler.DataLayer.Model;
+using WebCrawler.Web.Utilities;
 
 namespace WebCrawler.Web.Pages
 {
